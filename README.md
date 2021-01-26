@@ -23,7 +23,7 @@ JavaScript, ES6, Node.js, MySql, Express, Insomnia Core, and Sequelize
 
 [E-Commerce Back End GitHub](https://github.com/ericasiegel/ecommerce-be.git)
 
-[Full Video Walkthrough](https://drive.google.com/file/d/1-RC56grufRSGU8EwXYKVk2Y3O8BcNhxP/view)
+[Full Video Walkthrough](https://drive.google.com/file/d/1ZobZZ1il5IGpBMazIcXr5-Ru1Ki8aAnH/view)
 
 ## Installation
 
